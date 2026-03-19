@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_DE_TU_BANNER" width="100%" />
+  <img src="https://raw.githubusercontent.com/xYahmil/xYahmil/main/LinkedIn%20Banner.jpg" width="100%" />
 </p>
 
 <h1 align="center">Yahmil Mendoza</h1>
