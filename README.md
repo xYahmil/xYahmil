@@ -44,22 +44,26 @@ Currently transitioning into Data Analysis, combining development background wit
 ## Experience
 
 ### Enrollment System — CENIDET  
-**Full-Stack Developer (2024)**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
+![MVC](https://img.shields.io/badge/Architecture-MVC-blue?style=for-the-badge)
 
-- Developed and improved modules using MVC architecture  
-- Implemented business logic and MySQL data handling  
-- Enhanced UI and responsiveness  
-- Version control with Git & GitHub  
+- Developed modules  
+- Business logic  
+- UI improvements  
+- Git version control  
 
 ---
 
 ### Diabetes Risk Evaluation System  
-**Full-Stack Developer (2025)**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge)
 
-- Built modules with Laravel + Vue (Inertia)  
-- Data validation and storage in MySQL  
-- Responsive UI with Tailwind  
-- Git-based workflow  
+- Laravel + Vue (Inertia)  
+- Data validation  
+- Responsive UI  
+- Git workflow
 
 ---
 
