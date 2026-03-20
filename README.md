@@ -63,36 +63,8 @@ Currently transitioning into Data Analysis, combining development background wit
 
 ---
 
-## Currently Learning
-
-- Python for Data Analysis  
-- Pandas and data manipulation  
-- Data visualization  
-- Power BI dashboards  
-- Data modeling best practices  
-
----
-
-## Goal
-
-Grow into a Data Analyst role focused on:
-
-- Data extraction and transformation  
-- Insight generation  
-- Decision support  
-
----
-
 ## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xYahmil&show_icons=true&theme=tokyonight" />
 </p>
-
----
-
-## Contact
-
-- Email: yyma2604@gmail.com  
-- Location: México  
-- LinkedIn: https://www.linkedin.com/in/ylian-mendoza/
